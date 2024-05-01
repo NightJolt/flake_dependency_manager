@@ -1,0 +1,3 @@
+[submodule "flake_core"]
+	path = flake_core
+	url = https://github.com/NightJolt/flake_core
